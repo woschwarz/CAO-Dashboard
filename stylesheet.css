@@ -1,0 +1,49 @@
+body, td, font01, table02, border01, border02, border03 {
+   font-family: Arial, Helvetica, sans-serif;
+}
+td {
+   font-size: 12px;
+}
+.font01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+.table02 {
+	padding: 2px;
+
+}
+.border01 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 26px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #636BA9;
+	padding: 8px;
+
+
+
+}
+.border02 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #d8d8d8;
+	padding: 3px;
+
+}
+
+.border03 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #636BA9;
+	padding: 3px;
+
+}
+a:link {  text-decoration: none}
+a:visited {
+	text-decoration: none;
+}
+a:hover {  text-decoration: underline overline}
